@@ -7,6 +7,7 @@ public class ArrayTest
 		x=new int[n];
 		for(int i=0;i<100;i++)
 			{
+				System.out.println("x"+i+"is"+x[i]);;;;;;
 			}
 	}
 }
